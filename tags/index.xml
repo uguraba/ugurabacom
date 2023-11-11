@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on İbrahim Uğur ABA</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on İbrahim Uğur ABA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-TR</language>
+    <copyright>© Her hakkı saklıdır.</copyright>
+    <lastBuildDate>Wed, 01 Apr 2020 02:01:58 +0530</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primer</title>
+      <link>/tags/primer/</link>
+      <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
+      <guid>/tags/primer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>todo</title>
+      <link>/tags/todo/</link>
+      <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
+      <guid>/tags/todo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Procrastinating</title>
+      <link>/tags/procrastinating/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
+      <guid>/tags/procrastinating/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Space</title>
+      <link>/tags/space/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
+      <guid>/tags/space/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
